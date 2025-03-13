@@ -6,7 +6,7 @@ This web app helps users discover their **personal strengths** and **job compati
 ---
 
 ## 🚀 Live Demo  
-🔗 **Try the app here:** [Click to open]([https://your-project-name.vercel.app/](https://exquisite-lily-20c77a.netlify.app/))  
+🔗 **Try the app here:** [Click to open]([https://your-project-name.vercel.app/](https://exquisite-lily-20c77a.netlify.app/)  
 
 ---
 
