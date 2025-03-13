@@ -6,7 +6,7 @@ This web app helps users discover their **personal strengths** and **job compati
 ---
 
 ## 🚀 Live Demo  
-🔗 **Try the app here:** [Click to open]([https://your-project-name.vercel.app/](https://exquisite-lily-20c77a.netlify.app/)  
+🔗 **Try the app here:** [Click to open](https://exquisite-lily-20c77a.netlify.app/)  
 
 ---
 
@@ -22,7 +22,8 @@ This web app helps users discover their **personal strengths** and **job compati
 ## 🎨 Tech Stack
 - **Frontend:** HTML, CSS (Tailwind/Bootstrap), JavaScript  
 - **Charts:** Chart.js / D3.js  
-- **Deployment:** [Stackblitz](https://stackblitz.com/~/github.com/farshadav/personal_career_evaluation) 
+- **Source code:** [Stackblitz](https://stackblitz.com/~/github.com/farshadav/personal_career_evaluation)
+- **Deployment:** [Netlify](https://exquisite-lily-20c77a.netlify.app/)
 - **GitHub Integration:** Version control for easy updates  
 
 ---
