@@ -32,6 +32,21 @@ This web app helps users discover their **personal strengths** and **job compati
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/your-repository.git
+ ```  
+---
+⚠️ Disclaimer
+This application, Reputation Management App, has been created using AI-powered no-code and low-code tools. While the app utilizes AI and automated processes to analyze social media reputation, it does not guarantee absolute accuracy and should be used for informational purposes only.
+
+⚖️ Legal Notice & Ownership
+Intellectual Property Rights: All rights to the source code, algorithms, and UI components belong to the respective owners, including the no-code platforms and AI tools used in its creation.
+Third-Party Services: This app may utilize APIs and external services (e.g., OpenAI, Netlify, LinkedIn API). Users must comply with the terms of service of these platforms.
+No Legal Liability: The creator(s) of this app are not responsible for any misuse, inaccuracies, or third-party claims arising from the use of this tool.
+Fair Use & Compliance: The application does not engage in scraping, unauthorized data collection, or violations of LinkedIn's Terms of Service. Any analysis provided is AI-generated and does not imply official verification.
+🔹 Usage Guidelines
+This tool is intended for ethical and lawful use only.
+Users must respect privacy laws (e.g., GDPR, CCPA) when analyzing social media data.
+The owner(s) reserve the right to modify or discontinue this service without notice.
+🔹 By using this app, you agree to these terms and acknowledge that it is an AI-assisted project with no direct affiliation to LinkedIn, Netlify, or any external service providers.
 
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/farshadav/personal_career_evaluation)
