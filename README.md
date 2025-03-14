@@ -32,7 +32,7 @@ This web app helps users discover their **personal strengths** and **job compati
 1. Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/your-repository.git
- ```  
+ 
 
 ## ⚠️ Disclaimer  
 
