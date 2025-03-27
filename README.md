@@ -6,7 +6,7 @@ This web app helps users discover their **personal strengths** and **job compati
 ---
 
 ## 🚀 Live Demo  
-🔗 **Try the app here:** [Click to open]([https://exquisite-lily-20c77a.netlify.app/](https://67e5d2c9920fd74dbe11d920--inspiring-kheer-5c8fc8.netlify.app/))  
+🔗 **Try the app here:** [Click to open](https://exquisite-lily-20c77a.netlify.app/](https://67e5d2c9920fd74dbe11d920--inspiring-kheer-5c8fc8.netlify.app/) 
 
 ---
 
