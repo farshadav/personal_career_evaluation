@@ -10,7 +10,7 @@ export const Home = () => {
       <div className="mb-12">
         <Brain className="h-16 w-16 text-indigo-600 mx-auto mb-6" />
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          Discover Your Career Path with the Thomann Study
+          Discover Your Personal Abilities and Strengths!
         </h1>
         <p className="text-xl text-gray-600 mb-8">
           Take our comprehensive assessment to uncover your strengths and find your perfect career match
